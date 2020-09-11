@@ -24,7 +24,7 @@
               <a class="navbar-brand" href="index.php">MovieSearch</a>
                 <a class="navbar-brand" href="about.php">About</a>
                 <a class="navbar-brand" href="watchlist.php">Watchlist</a>
-                <a class="navbar-brand" >You are logged out. Sign In to browse movies</a>
+                
               </div>
             </nav>
             <div id="mySidenav" class="sidenav">
